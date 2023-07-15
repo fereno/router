@@ -12,3 +12,8 @@ body {
   margin: 0;
   background-color: #cabebe;
 }
+
+main {
+  margin: 2rem auto;
+  text-align: center;
+}
